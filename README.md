@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Pranav2-4-7/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/Pranav2-4-7/LeetCode/tree/master/1046-last-stone-weight) |
 ## Data Stream
 |  |
 | ------- |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Pranav2-4-7/LeetCode/tree/master/0206-reverse-linked-list) |
+## Array
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/Pranav2-4-7/LeetCode/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
