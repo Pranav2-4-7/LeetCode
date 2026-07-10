@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Pranav2-4-7/LeetCode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Pranav2-4-7/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/Pranav2-4-7/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Pranav2-4-7/LeetCode/tree/master/1046-last-stone-weight) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Pranav2-4-7/LeetCode/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/Pranav2-4-7/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Pranav2-4-7/LeetCode/tree/master/1046-last-stone-weight) |
 ## Math
@@ -89,9 +91,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Pranav2-4-7/LeetCode/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/Pranav2-4-7/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Pranav2-4-7/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Hash Table
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Pranav2-4-7/LeetCode/tree/master/0621-task-scheduler) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Pranav2-4-7/LeetCode/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Pranav2-4-7/LeetCode/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
