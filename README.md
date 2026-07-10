@@ -50,10 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/Pranav2-4-7/LeetCode/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Pranav2-4-7/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/Pranav2-4-7/LeetCode/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/Pranav2-4-7/LeetCode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Pranav2-4-7/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/Pranav2-4-7/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Pranav2-4-7/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0355-design-twitter](https://github.com/Pranav2-4-7/LeetCode/tree/master/0355-design-twitter) |
 ## Recursion
 |  |
 | ------- |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/Pranav2-4-7/LeetCode/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/Pranav2-4-7/LeetCode/tree/master/0621-task-scheduler) |
 ## Greedy
 |  |
