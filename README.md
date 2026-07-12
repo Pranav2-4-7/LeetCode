@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Pranav2-4-7/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/Pranav2-4-7/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Pranav2-4-7/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/Pranav2-4-7/LeetCode/tree/master/0355-design-twitter) |
 ## Recursion
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Pranav2-4-7/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0355-design-twitter](https://github.com/Pranav2-4-7/LeetCode/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/Pranav2-4-7/LeetCode/tree/master/0621-task-scheduler) |
 ## Greedy
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pranav2-4-7/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Pranav2-4-7/LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
