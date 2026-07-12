@@ -81,12 +81,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Pranav2-4-7/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Pranav2-4-7/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Pranav2-4-7/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Pranav2-4-7/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/Pranav2-4-7/LeetCode/tree/master/0355-design-twitter) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Pranav2-4-7/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/Pranav2-4-7/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Pranav2-4-7/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Array
 |  |
@@ -138,4 +140,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Pranav2-4-7/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Pranav2-4-7/LeetCode/tree/master/0143-reorder-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Pranav2-4-7/LeetCode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
