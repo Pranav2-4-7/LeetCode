@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Pranav2-4-7/LeetCode/tree/master/0217-contains-duplicate) |
 | [0621-task-scheduler](https://github.com/Pranav2-4-7/LeetCode/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/Pranav2-4-7/LeetCode/tree/master/0704-binary-search) |
 | [0973-k-closest-points-to-origin](https://github.com/Pranav2-4-7/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Pranav2-4-7/LeetCode/tree/master/0217-contains-duplicate) |
 | [0621-task-scheduler](https://github.com/Pranav2-4-7/LeetCode/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/Pranav2-4-7/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Pranav2-4-7/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/Pranav2-4-7/LeetCode/tree/master/0217-contains-duplicate) |
 | [0355-design-twitter](https://github.com/Pranav2-4-7/LeetCode/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/Pranav2-4-7/LeetCode/tree/master/0621-task-scheduler) |
 ## Greedy
