@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Pranav2-4-7/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1025-divisor-game](https://github.com/Pranav2-4-7/LeetCode/tree/master/1025-divisor-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pranav2-4-7/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Divide and Conquer
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranav2-4-7/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pranav2-4-7/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1025-divisor-game](https://github.com/Pranav2-4-7/LeetCode/tree/master/1025-divisor-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -155,4 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pranav2-4-7/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Pranav2-4-7/LeetCode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Pranav2-4-7/LeetCode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
