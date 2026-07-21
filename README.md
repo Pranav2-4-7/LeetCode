@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Pranav2-4-7/LeetCode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranav2-4-7/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Pranav2-4-7/LeetCode/tree/master/0217-contains-duplicate) |
 | [0621-task-scheduler](https://github.com/Pranav2-4-7/LeetCode/tree/master/0621-task-scheduler) |
@@ -165,4 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Pranav2-4-7/LeetCode/tree/master/1025-divisor-game) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Pranav2-4-7/LeetCode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Pranav2-4-7/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
