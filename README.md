@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Pranav2-4-7/LeetCode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Pranav2-4-7/LeetCode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranav2-4-7/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Pranav2-4-7/LeetCode/tree/master/0217-contains-duplicate) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Pranav2-4-7/LeetCode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Pranav2-4-7/LeetCode/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
