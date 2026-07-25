@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Pranav2-4-7/LeetCode/tree/master/0242-valid-anagram) |
 | [0572-subtree-of-another-tree](https://github.com/Pranav2-4-7/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Pranav2-4-7/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Pranav2-4-7/LeetCode/tree/master/0242-valid-anagram) |
 | [0621-task-scheduler](https://github.com/Pranav2-4-7/LeetCode/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/Pranav2-4-7/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Pranav2-4-7/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Pranav2-4-7/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Pranav2-4-7/LeetCode/tree/master/0242-valid-anagram) |
 | [0355-design-twitter](https://github.com/Pranav2-4-7/LeetCode/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/Pranav2-4-7/LeetCode/tree/master/0621-task-scheduler) |
 ## Greedy
