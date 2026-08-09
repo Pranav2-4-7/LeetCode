@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Pranav2-4-7/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Pranav2-4-7/LeetCode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranav2-4-7/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/Pranav2-4-7/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Pranav2-4-7/LeetCode/tree/master/0217-contains-duplicate) |
 | [0621-task-scheduler](https://github.com/Pranav2-4-7/LeetCode/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/Pranav2-4-7/LeetCode/tree/master/0704-binary-search) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Pranav2-4-7/LeetCode/tree/master/0189-rotate-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Pranav2-4-7/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/Pranav2-4-7/LeetCode/tree/master/1025-divisor-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pranav2-4-7/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Pranav2-4-7/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Pranav2-4-7/LeetCode/tree/master/0143-reorder-list) |
+| [0189-rotate-array](https://github.com/Pranav2-4-7/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Pranav2-4-7/LeetCode/tree/master/0344-reverse-string) |
 ## Stack
 |  |
